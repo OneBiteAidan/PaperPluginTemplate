@@ -1,0 +1,4 @@
+name: PaperPluginTemplate
+version: '${project.version}'
+main: dev.onebiteaidan.paperplugintemplate.PaperPluginTemplate
+api-version: '1.20'
